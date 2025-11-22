@@ -1,6 +1,7 @@
 import FormularioLoginSeccion from "../components/FormularioLoginSeccion"
 import TituloSeccion from "../components/TitulosSeccion"
-
+//probanding uno dos tres
+//espero funcione
 
 const LoginPage = () => {
     return <div className="row">
